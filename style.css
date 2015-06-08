@@ -1,0 +1,7 @@
+tr:nth-child(even) {background-color: #D3D3D3;}
+tr:nth-child(odd) {background-color: #ffffff;}
+div.outer-content{width:75%; margin-top:  20px; ;}
+div.inner-content{ width:75%; 
+				   margin:0 auto;
+				   }
+
